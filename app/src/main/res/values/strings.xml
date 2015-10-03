@@ -42,4 +42,7 @@
     <string name="barcode_success">Barcode read successfully</string>
     <string name="barcode_failure">No barcode captured</string>
     <string name="barcode_error">"Error reading barcode: %1$s"</string>
+
+    <string name="no_book_no_network">No book information available. The network is not available to fetch book data.</string>
+
 </resources>
